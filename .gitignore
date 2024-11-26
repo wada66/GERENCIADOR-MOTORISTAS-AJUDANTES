@@ -1,0 +1,19 @@
+# Ignorar a pasta bin
+bin/
+
+# Ignorar arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de compilação do Maven
+target/
+
+# Ignorar dependências do Gradle
+.gradle/
+build/
+
+
