@@ -8,7 +8,7 @@ public class ConexaoBD {
 
 	    private static final String URL = "jdbc:oracle:thin:@localhost:1521:XE";
 	    private static final String USER = "c##wada"; 
-	    private static final String PASSWORD = "2110";
+	    private static final String PASSWORD = "xxxx";
 
 	    public static Connection getConnection() throws SQLException {
 	        return DriverManager.getConnection(URL, USER, PASSWORD);
