@@ -19,7 +19,7 @@ public class Metodos implements CRUD {
     private Connection connect() {
         try {
             
-            String url = "jdbc:oracle:thin:@localhost:1521:xe"; // URL do banco de dados
+            String url = "jdbc:oracle:thin:@wwwwwwwww:0000:xe"; // URL do banco de dados
             String user = "yyyy"; // Usuário do banco de dados
             String password = "xxxx"; // Senha do banco de dados
             
