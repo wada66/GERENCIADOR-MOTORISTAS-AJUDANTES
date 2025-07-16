@@ -20,8 +20,8 @@ public class Metodos implements CRUD {
         try {
             
             String url = "jdbc:oracle:thin:@localhost:1521:xe"; // URL do banco de dados
-            String user = "c##wada"; // Usuário do banco de dados
-            String password = "2110"; // Senha do banco de dados
+            String user = "yyyy"; // Usuário do banco de dados
+            String password = "xxxx"; // Senha do banco de dados
             
             return DriverManager.getConnection(url, user, password);
         } catch (SQLException e) {
