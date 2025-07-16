@@ -6,7 +6,7 @@ import java.sql.SQLException;
 public class ConexaoBD {
 	
 
-	    private static final String URL = "jdbc:oracle:thin:@localhost:1521:XE";
+	    private static final String URL = "jdbc:oracle:thin:@wwwwwwwww:0000:xe";
 	    private static final String USER = "yyyy"; 
 	    private static final String PASSWORD = "xxxx";
 
